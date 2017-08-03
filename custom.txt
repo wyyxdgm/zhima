@@ -13,3 +13,5 @@
 ||cloudfront.net
 ||akamai.net
 ||scene7.com
+||livedoor.com
+||gimpshop.com
