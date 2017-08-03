@@ -11,3 +11,5 @@
 ||bulkhentai.com
 ||tumblr.com
 ||cloudfront.net
+||akamai.net
+||scene7.com
