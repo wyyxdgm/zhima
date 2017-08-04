@@ -1,0 +1,9 @@
+http://t.cn/R9KGFHV
+
+server{
+    listen 80;
+    server_name zhima.wwvpn.com;
+    location / {
+        rewrite	^(.*)	http://t.cn/R9KGFHV?p=$1 permanent;
+    }
+}
