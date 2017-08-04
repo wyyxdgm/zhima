@@ -1,4 +1,6 @@
 http://t.cn/R9KGFHV
+https://github.com/wyyxdgm/zhima/raw/master/zhima.bak
+https://raw.githubusercontent.com/wyyxdgm/zhima/master/gfwlist.txt
 
 server{
     listen 80;
