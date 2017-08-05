@@ -1,0 +1,11 @@
+http://t.cn/R9KGFHV
+https://github.com/wyyxdgm/zhima/raw/master/zhima.bak
+https://raw.githubusercontent.com/wyyxdgm/zhima/master/gfwlist.txt
+
+server{
+    listen 80;
+    server_name zhima.wwvpn.com;
+    location / {
+        rewrite	^(.*)	http://t.cn/R9KGFHV?p=$1 permanent;
+    }
+}
