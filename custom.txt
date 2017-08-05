@@ -1,5 +1,6 @@
 ||pinimg.com
 ||pinterest.com
+||pinterest.jp
 ||mega.co.nz
 ||mega.nz
 ||svnbackoffice.net
@@ -15,3 +16,5 @@
 ||scene7.com
 ||livedoor.com
 ||gimpshop.com
+||wnacg.org
+||steampowered.com
